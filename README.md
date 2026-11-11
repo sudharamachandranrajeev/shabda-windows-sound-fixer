@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/sudharamachandranrajeev/shabda"><img src="branding/shabda.svg" alt="Shabda" width="140"></a>
+  <a href="https://github.com/sudharamachandranrajeev/shabda-windows-sound-fixer"><img src="branding/shabda.svg" alt="Shabda" width="140"></a>
   <br>
   Shabda
   <br>
@@ -9,7 +9,7 @@
 <h4 align="center">No sound on your Windows PC? Shabda finds the likely cause and walks you through fixes that others have confirmed.</h4>
 
 <p align="center">
-  <a href="https://github.com/sudharamachandranrajeev/shabda/releases"><img src="https://img.shields.io/github/v/release/sudharamachandranrajeev/shabda?include_prereleases&color=0f4c81&label=download" alt="Latest release"></a>
+  <a href="https://github.com/sudharamachandranrajeev/shabda-windows-sound-fixer/releases"><img src="https://img.shields.io/github/v/release/sudharamachandranrajeev/shabda-windows-sound-fixer?include_prereleases&color=0f4c81&label=download" alt="Latest release"></a>
   <img src="https://img.shields.io/badge/works%20on-Windows%2010%20%7C%2011-555" alt="Works on Windows 10 and 11">
   <img src="https://img.shields.io/badge/license-MIT-2e7d32" alt="MIT licence">
 </p>
@@ -66,7 +66,7 @@ Read the whole list, with every fix and source, without installing anything:
 
 ### Step 1 – Download
 
-Open the [releases page](https://github.com/sudharamachandranrajeev/shabda/releases) and, under the
+Open the [releases page](https://github.com/sudharamachandranrajeev/shabda-windows-sound-fixer/releases) and, under the
 newest release, pick a file:
 
 | You want | File to download | Works on |
